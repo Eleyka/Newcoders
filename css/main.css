@@ -1,0 +1,41 @@
+
+#container {
+    border:5px rgb(255, 255, 255) solid;
+    display: inline-block;
+    width: 800px;
+    height:600px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    left:   250px;
+}
+    
+p {
+    font-size: 20px;
+    text-align: left;
+    margin-left: 320px;
+    font-family: 'Bigshot One', cursive;
+    margin-bottom: 5px;
+}
+
+  img.grande{
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    margin: 5px;
+      
+  }
+.Nombre {
+    display: inline-block;
+    position: absolute;
+    margin-top: 180px;
+    margin-left: -160px;
+    color: rgb(255, 255, 255);
+}
+hr{
+    width: 100px;;
+    
+    height:5px;  
+    background-color:#130261; 
+    margin-left: 320px;
+}
